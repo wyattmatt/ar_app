@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="faceplate_rj45_2" size="0.100000 0.097539" />
+    <ImageTarget name="faceplate_rj45" size="0.100000 0.098848" />
+    <ImageTarget name="faceplate_hdmi" size="0.100000 0.105855" />
+    <ImageTarget name="sound_cable" size="0.100000 0.113536" />
+    <ImageTarget name="box_splitter" size="0.240000 0.159000" />
+    <ImageTarget name="roll_cable" size="0.200000 0.197250" />
+    <ImageTarget name="sop_panduan" size="0.220000 0.262915" />
+  </Tracking>
+</QCARConfig>
